@@ -19,7 +19,7 @@ This took about 3 minutes for me.
 Note: you may have to remove existing docker containers if they exist.
 
 
-I explained my process in the file, but I'll run through my EDA steps again here.
+I explained my process and justifications in the EDA.ipynb file.
 
 
 I noticed the syllabus said to specify pseudocode for my algorithms, but because this was just EDA,
